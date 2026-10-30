@@ -54,7 +54,7 @@
 
     <!-- Footer -->
     <footer class="bg-white border-t border-gray-200 py-4 text-center text-sm text-gray-500 mt-auto">
-        &copy; {{ date('Y') }} Barangay Matina Crossing Health Center. All rights reserved.
+        &copy; {{ date('Y') }} Davao City Health Center. All rights reserved.
     </footer>
 
 </body>

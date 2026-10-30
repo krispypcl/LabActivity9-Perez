@@ -8,7 +8,7 @@ Ateneo de Davao University
 ---
 
 ## 📋 Project Description
-Rebuilding the presentation layer for Nurse Marites Abellana at the Barangay Matina Crossing Health Center (Davao City) using Laravel Blade views, custom components, and Tailwind CSS compiled via Vite. Data is seeded through SQLite.
+Rebuilding the presentation layer for Nurse Marites Abellana at the Davao City Health Center using Laravel Blade views, custom components, and Tailwind CSS compiled via Vite. Data is seeded through SQLite.
 
 ---
 

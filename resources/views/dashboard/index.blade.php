@@ -9,7 +9,7 @@
     <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
             <h1 class="text-2xl font-bold text-gray-900 tracking-tight">{{ $title }}</h1>
-            <p class="text-sm text-gray-500 mt-1">Barangay Matina Crossing Health Center &bull; Vaccination Desk Overview</p>
+            <p class="text-sm text-gray-500 mt-1">Davao City Health Center &bull; Vaccination Desk Overview</p>
         </div>
         <div class="inline-flex items-center gap-2 text-xs font-medium text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1.5 rounded-full w-fit">
             <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>

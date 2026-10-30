@@ -7,7 +7,7 @@
     <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
             <h1 class="text-2xl font-bold text-gray-900 tracking-tight">{{ $title }}</h1>
-            <p class="text-sm text-gray-500 mt-1">Barangay Matina Crossing Health Center &bull; Full Vaccination Roster</p>
+            <p class="text-sm text-gray-500 mt-1">Davao City Health Center &bull; Full Vaccination Roster</p>
         </div>
         <a href="/dashboard" class="inline-flex items-center text-sm font-medium text-emerald-600 hover:text-emerald-700 underline">
             &larr; Back to Dashboard
@@ -68,3 +68,4 @@
     </x-panel>
 </div>
 @endsection
+
